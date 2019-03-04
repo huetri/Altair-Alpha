@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+xmlns:georss="http://www.georss.org/georss" xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+>
+
+<channel>
+	<title>Search Results for &#8220;feed&#8221; &#8211; Altair Alpha</title>
+	<atom:link href="https://altair-alpha.com/search/feed/rss2/" rel="self" type="application/rss+xml" />
+	<link>https://altair-alpha.com</link>
+	<description>Venturing to the next edge</description>
+	<lastBuildDate>
+	Wed, 27 Feb 2019 07:46:29 +0000	</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.1</generator>
+<site xmlns="com-wordpress:feed-additions:1">139653557</site>	<item>
+		<title>Team</title>
+		<link>https://altair-alpha.com/team/</link>
+				<pubDate>Tue, 30 Jan 2018 03:20:57 +0000</pubDate>
+		<dc:creator><![CDATA[huetri@gmail.com]]></dc:creator>
+		
+		<guid isPermaLink="false">https://altair-alpha.com/?page_id=11</guid>
+				<description><![CDATA[Tri Ton &#8211; Founder &#124; CEO Tri is a venturer. Tri believes business is a medium to express thinking, to fight for a cause, and to push humanity forward. Tri spends most of his time on Altair Alpha, a venture &#8230; <a href="https://altair-alpha.com/team/">Continued</a>]]></description>
+								<content:encoded><![CDATA[<p><img class="alignnone size-full wp-image-12" src="https://i0.wp.com/altair-alpha.com/wp-content/uploads/2018/01/Tri-Ton.jpg?resize=850%2C165&#038;ssl=1" alt="" width="850" height="165" srcset="https://i0.wp.com/altair-alpha.com/wp-content/uploads/2018/01/Tri-Ton.jpg?w=850&amp;ssl=1 850w, https://i0.wp.com/altair-alpha.com/wp-content/uploads/2018/01/Tri-Ton.jpg?resize=300%2C58&amp;ssl=1 300w, https://i0.wp.com/altair-alpha.com/wp-content/uploads/2018/01/Tri-Ton.jpg?resize=768%2C149&amp;ssl=1 768w" sizes="(max-width: 850px) 100vw, 850px" data-recalc-dims="1" /></p>
+<p><strong>Tri Ton</strong> <strong>&#8211; <em>Founder</em> | <em>CEO</em></strong></p>
+<p>Tri is a venturer. Tri believes business is a medium to express thinking, to fight for a cause, and to push humanity forward. Tri spends most of his time on Altair Alpha, a venture in used books and paper recycling industry. Concurrently, Tri also serves as a Board Member of Cloudjet Solutions (“CJS”), a venture backed cloud based firm that provides management applications in Human Resources to small and medium businesses in Vietnam. Throughout his career, he has worked on over 100 deals and ventures across 19 industries, raised capital several times, and facilitated a strategic trade-sale exit.  Tri started his career as a private equity professional at Vietnam Investments Group (“VI Group”), a premier private equity firm in Vietnam specializing on expansion capital with USD 500M asset under management across 3 funds. His private equity experience included strategy, valuation, and operation for prospects and portfolio investees as well as serving as Deputy CEO and Board Member of the largest VI Group’s pharmaceutical / agricultural deal with 9 M&amp;As. Prior to VI Group, Tri was an Executive Board Member of AIESEC Ho Chi Minh Local Committee, serving as Vice President of External Relations. Writing is Tri’s hobby and he occasionally publishes essays at huetri.com. Tri is an AmCham Vietnam’s Scholar and has a Bachelor of Business Administration in Accounting and Finance from International University – Vietnam National University.</p>
+<hr />
+<p><img class="alignnone size-full wp-image-15" src="https://i2.wp.com/altair-alpha.com/wp-content/uploads/2018/01/Thai-Hoang.jpg?resize=850%2C165&#038;ssl=1" alt="" width="850" height="165" srcset="https://i2.wp.com/altair-alpha.com/wp-content/uploads/2018/01/Thai-Hoang.jpg?w=850&amp;ssl=1 850w, https://i2.wp.com/altair-alpha.com/wp-content/uploads/2018/01/Thai-Hoang.jpg?resize=300%2C58&amp;ssl=1 300w, https://i2.wp.com/altair-alpha.com/wp-content/uploads/2018/01/Thai-Hoang.jpg?resize=768%2C149&amp;ssl=1 768w" sizes="(max-width: 850px) 100vw, 850px" data-recalc-dims="1" /></p>
+<p><strong>Thai Hoang &#8211; <em>Head Representative of Vietnam Business</em></strong></p>
+<p>Thai is a businessperson with a keen interest in strategy and finance. Thai is active as Altair Alpha’s Head of Vietnam Business and is a Senior Associate in Altair Ventures where he is in charge of various strategy and management works in both Altair Industries and Altair Cliff Associates. Concurrently, Thai is also a sole Business Analyst at Mekong Communications – one of the largest local digital media agencies in Vietnam, where he serves as a bridge to make sense of all accounting records and financial modeling to Board Members and top management. Before Altair Ventures and Mekong Communications, Thai played a key operational role in NTS Partners on an effort to use a line of organically modified sorghum to increase biomass, sugar content, and ethanol content, which in turn, can replace elephant grass in making feeds for cow, sugar cane in producing sugar, and cassava in producing bioethanol. Thai started his career in Private Equity environment with Vietnam Investments Group, where Tri was his mentor, and later on moved to listed market environment in brokerage and trading business. Thai has a Bachelor of Art in Corporate Finance from University of Economics Ho Chi Minh City and passed CFA Level 2 Examination.</p>
+<hr />
+]]></content:encoded>
+									<post-id xmlns="com-wordpress:feed-additions:1">11</post-id>	</item>
+	</channel>
+</rss>
